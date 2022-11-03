@@ -1,0 +1,26 @@
+
+
+.break-word{
+  word-break: break-word;
+}
+
+.button{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    transition: 0.5s;
+    margin-left: 300px;
+  }
+  
+  .button:hover{
+    background-color: dodgerblue;
+  }
+  
+
+
+
+
